@@ -58,9 +58,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Yadav&show_icons=true&theme=tokyonight" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Yadav&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aashish-Yadav&theme=tokyonight" />
 </p>
 
 # 📈 GitHub Activity Graph
