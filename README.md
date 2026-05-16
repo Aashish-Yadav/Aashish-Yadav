@@ -33,23 +33,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=materialui" />
-<img src="https://skillicons.dev/icons?i=redis" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=socketio" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,tailwind,bootstrap,materialui,redis,docker,socketio,git,github,postman,aws" />
 </p>
 
 ---
