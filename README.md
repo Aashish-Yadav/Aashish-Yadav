@@ -37,15 +37,10 @@
 <p align="center">
   <img 
     src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,tailwind,bootstrap,materialui,redis,docker,git,github,postman,aws&perline=6" 
-    height="65"
+    height="300"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&badgeColor=010101" 
-  />
-</p>
 
 # 📊 GitHub Stats
 
