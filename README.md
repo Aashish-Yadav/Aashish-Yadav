@@ -56,12 +56,12 @@
 
 # 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Yadav&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Aashish-Yadav&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Yadav&show_icons=true&theme=tokyonight" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Yadav&theme=tokyonight" height="170"/>
 </p>
----
 
 # 📈 GitHub Activity Graph
 
