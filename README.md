@@ -30,14 +30,13 @@
 
 ---
 
-# 💻 Tech Stack
 
 # 💻 Tech Stack
 
 <p align="center">
   <img 
     src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,tailwind,bootstrap,materialui,redis,docker,socketio,git,github,postman,aws&perline=6" 
-    height="65"
+    height="165"
   />
 </p>
 
